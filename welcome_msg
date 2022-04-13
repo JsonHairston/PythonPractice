@@ -1,0 +1,6 @@
+# Creating a welcome message for a user
+
+
+name = input("What is your name? ")
+
+print( "Greetings", name + "," , "\nThis is only the beginning of my python journey!")
